@@ -1,0 +1,22 @@
+Theorieteil:
+
+Protein aggregate stability enhancement through addition of exipients
+Sucrose is a classical amorphous matrix former while lyophilisation
+Stabilisation with sacrose is due to 2 things: water replacement theory and vitrification
+water replacement: substitution of water hydroxyl groups with sucrose hydroxyl groups in protein hydrogen bonds, maintaining the protein conformation
+Vitrification concept: Reduction of reaction rates of proteins and between protens and water and excipients within the glassy matrix
+
+With DSC the water concentration in MFCS can be determined
+
+
+
+
+
+
+Fragen:
+
+amorphous phase (glassy phase): how ist is amorphous
+what is reconstitution ?
+Was ist Tg’ ?
+
+What is Annealing ?

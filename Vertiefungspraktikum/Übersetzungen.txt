@@ -1,0 +1,8 @@
+Exipient --> 
+Lyophilisation --> same
+sucrose --> Saccharose
+lyoprotectant
+cryoprotectant
+anhydrous --> Wasserfrei (adj)
+topological constraints --> Sterische Hinderung
+crucible --> Tiegel
