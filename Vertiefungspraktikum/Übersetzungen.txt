@@ -6,3 +6,4 @@ cryoprotectant
 anhydrous --> Wasserfrei (adj)
 topological constraints --> Sterische Hinderung
 crucible --> Tiegel
+MFCS = maximally freeze-concentrated solution --> Maximal gefrierkonzentrierte Lösung
